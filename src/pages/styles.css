@@ -1,0 +1,50 @@
+
+
+.chalisa {
+    padding: 1rem 1rem;
+    background: #f4f4f4;
+  }
+  
+  .chalisa .container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .chalisa h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #ff6f61;
+  }
+  
+  .chalisa-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .chalisa-content p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .chalisa-content h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #ff6f61;
+  }
+  
+  .footer {
+    background: #ff6f61;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .footer .container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
